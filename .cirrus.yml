@@ -10,7 +10,7 @@ env:
   GITLAB_INSTANCE: www.gitgud.io
   
   # Private SSH Key
-  PRIV_SSH_KEY: ENCRYPTED[!6b5190e5501f68bf5b4c4c7372100f99608b8008d8306acd37a6262c4bd12bc33dba286693cc4dac325f85f7d12b98ba!]
+  PRIV_SSH_KEY: ENCRYPTED[!d52d56eb8ecb7be22bba18f3dbcb811a7c97442ee0ba50c3197521c1f08eeac6c669869777e9377ccab7626cff7c5ef3!]
 
 task:
   name: "Firmware Dump by Dumper"
